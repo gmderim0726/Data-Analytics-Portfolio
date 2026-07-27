@@ -25,3 +25,5 @@ An end-to-end structuring of a credit risk monitoring system. I developed data p
 
 ## [Project 2: Financial Performance](./Financial-Performance)
 
+I built a financial database to perform a complete analysis of a fictional electronics company's performance. I simulated the entire ETL process, including Sales, Cash Flow, General Leadger, and Income Statement data. The pipeline uses Python to extract and transform the data before loading it into PostgreSQL and visualizing it in Power BI.
+
