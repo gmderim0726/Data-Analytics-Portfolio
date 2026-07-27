@@ -24,7 +24,7 @@ The dataset is entirely generated using a custom Python script (pandas, random, 
 
 ## Getting started
 
-To get start with _, you can follow these steps:
+To get start with Financial Analysis, you can follow these steps:
 
 1. Clone this repository to your local machine.
 
